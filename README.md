@@ -2,7 +2,7 @@
 
 Browse and search for a wide variety of recipes.
 
-![Project Image](RECIPE APP.jpg)
+![Project Image](RECIPE.jpg)
 
 ## Table of Contents
 - [Installation](#installation)
